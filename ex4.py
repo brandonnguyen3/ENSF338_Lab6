@@ -1,5 +1,6 @@
 '''
-Exercise 3 Lab 6 ENSF 338 (Complete)
+Exercise 4 Lab 6 ENSF 338 (Complete)
+
 '''
 
 class MaxHeap:
