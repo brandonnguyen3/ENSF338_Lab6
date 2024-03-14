@@ -1,5 +1,5 @@
 '''
-Exercise 3 (Incomplete)??
+Exercise 3
 '''
 import sys
 
